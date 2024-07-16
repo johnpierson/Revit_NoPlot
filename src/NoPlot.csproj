@@ -68,6 +68,8 @@
         <StartAction>Program</StartAction>
         <StartProgram>C:\Program Files\Autodesk\Revit $(RevitVersion)\Revit.exe</StartProgram>
         <StartArguments>/language ENG</StartArguments>
+        <AssemblyVersion>$(RevitVersion).2.0.0</AssemblyVersion>
+        <FileVersion>$(RevitVersion).2.0.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
